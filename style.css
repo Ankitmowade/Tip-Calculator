@@ -1,0 +1,36 @@
+.container{
+	height: auto;
+	width: 500px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+}
+.top{
+	background-color: darkblue;
+	color: #fff;
+	padding:5px;
+
+
+
+}
+.mid{
+	background-color: lightpink;
+	padding: 5px;
+}
+.bottom{
+	background-color: lightsalmon;
+	padding: 10px;
+}
+input{
+	width: 300px;
+	padding: 5px;
+	background-color: lightgray;
+}
+button{
+	border-radius: 10px;
+	background-color:red;
+	padding: 10px 20px;
+	font-weight: bold;
+    color: #fff;
+}
